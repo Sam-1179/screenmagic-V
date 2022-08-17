@@ -1,0 +1,11 @@
+basic.forever(function () {
+    basic.showIcon(IconNames.Asleep)
+    basic.showIcon(IconNames.SmallHeart)
+    basic.showIcon(IconNames.Pitchfork)
+    basic.showIcon(IconNames.Butterfly)
+    basic.showIcon(IconNames.Heart)
+    basic.showIcon(IconNames.SmallSquare)
+    basic.showIcon(IconNames.Square)
+    basic.showIcon(IconNames.Square)
+    basic.showIcon(IconNames.Heart)
+})
